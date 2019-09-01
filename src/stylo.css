@@ -1,0 +1,44 @@
+.container{
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+   justify-content: center;
+   align-items: center;
+}
+
+header{
+    color: rgb(8, 59, 38);
+    text-align: center;
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+}
+
+.textoFrase{
+    font-style: italic;
+    color: #dd7b22;
+    text-align: center;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+
+footer{
+    color:rgb(8, 59, 38);
+    text-align: center;
+    font-style: italic;
+}
